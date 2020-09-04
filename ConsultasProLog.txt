@@ -1,0 +1,16 @@
+es_dato(X), write(X), nl, fail.
+
+es_información(X), write(X), nl, fail.
+
+es_habilidad(X), write(X), nl, fail.
+
+es_definición(X), write(X), nl, fail.
+
+es_definición_básica(X), write(X), nl, fail.
+
+es_definición_específica(X), write(X), nl, fail.
+
+es_conocimiento(X), write(X), nl, fail.
+
+es_algoritmo(X,Y), write(X), write(' ' ), write(Y), nl, fail.
+
